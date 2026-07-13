@@ -1,7 +1,5 @@
 Hi there 👋 I'm AJO
 
-<img align="right" width="280" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
 Mobile Developer • Game Developer • Illustrator
 
 I'm an Android Programmer from Indonesia who enjoys building applications, creating games, and drawing anime illustrations.
